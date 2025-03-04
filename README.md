@@ -1,2 +1,3 @@
-# SwordStorm-UpdateLog
-For the roblox game im wokring on
+# SwordStorm-Updatelogs
+
+check each release version for each update lol
